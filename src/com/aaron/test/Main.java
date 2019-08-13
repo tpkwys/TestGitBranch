@@ -10,5 +10,6 @@ package com.aaron.test;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hi Git");
+        System.out.println("Hi release/1.0");
     }
 }
